@@ -1,0 +1,7 @@
+syntax: glob
+*.qvw
+*.qvd
+*.log
+data/**
+raw_source/**
+*-prj/Log.txt
